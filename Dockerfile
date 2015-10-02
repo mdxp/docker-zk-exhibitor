@@ -1,4 +1,4 @@
-FROM debian:7.8
+FROM ubuntu:14.04
 MAINTAINER Mike Babineau michael.babineau@gmail.com
 
 ENV \
